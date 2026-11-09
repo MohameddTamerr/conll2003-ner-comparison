@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 530 390" fill="none" role="img" aria-labelledby="t">
+<title id="t">Named entity labels under a magnifying glass</title>
+<path d="M56 69C100 13 160 46 204 26c62-29 137-25 172 25 39 55 96 58 99 122 3 66-50 110-105 145-47 30-123 43-176 20-53-22-95 19-137-17C1 274 14 222 30 177c13-36-9-68 26-108Z" fill="#EDE9FF"/>
+<g transform="rotate(-6 245 185)">
+<rect x="102" y="63" width="277" height="258" rx="20" fill="#fff" stroke="#8269D2" stroke-width="4"/>
+<rect x="124" y="89" width="197" height="10" rx="5" fill="#E6E1FB"/>
+<rect x="124" y="108" width="101" height="6" rx="3" fill="#C3B6F1"/>
+<rect x="124" y="141" width="55" height="7" rx="3.5" fill="#DFDBF7"/>
+<rect x="124" y="155" width="119" height="6" rx="3" fill="#E6E2F8"/>
+<rect x="188" y="123" width="88" height="42" rx="20" fill="#C7B3F8"/><text x="232" y="150" fill="#36246D" font-family="Arial,sans-serif" font-size="22" font-weight="700" text-anchor="middle">PER</text>
+<rect x="124" y="195" width="57" height="6" rx="3" fill="#E2DDF7"/>
+<rect x="124" y="208" width="134" height="6" rx="3" fill="#E2DDF7"/>
+<rect x="187" y="179" width="89" height="42" rx="20" fill="#92E5F8"/><text x="232" y="206" fill="#17558B" font-family="Arial,sans-serif" font-size="22" font-weight="700" text-anchor="middle">ORG</text>
+<rect x="124" y="253" width="64" height="7" rx="3.5" fill="#E2DDF7"/>
+<rect x="124" y="269" width="155" height="7" rx="3.5" fill="#E2DDF7"/>
+<rect x="191" y="235" width="89" height="42" rx="20" fill="#B7F1D3"/><text x="235" y="262" fill="#186B54" font-family="Arial,sans-serif" font-size="22" font-weight="700" text-anchor="middle">LOC</text>
+</g>
+<circle cx="352" cy="180" r="76" fill="#fff" fill-opacity=".45" stroke="#38256F" stroke-width="15"/>
+<text x="352" y="191" text-anchor="middle" fill="#31215F" font-family="Arial,sans-serif" font-size="35" font-weight="800">NER</text>
+<path d="M409 233l77 76" stroke="#38256F" stroke-width="31" stroke-linecap="round"/>
+<path d="M449 88l13-22M466 113l24-13M471 140l30 1" stroke="#7156BC" stroke-width="5" stroke-linecap="round"/>
+</svg>
